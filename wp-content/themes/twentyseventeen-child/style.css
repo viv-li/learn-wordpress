@@ -100,6 +100,7 @@ blockquote.important {
 #panel3 {
 	background: #222;
 	color: #fff;
+	border: none;
 }
 
 #panel3 .aside {
@@ -110,6 +111,7 @@ blockquote.important {
 #panel4 {
 	background-color: #FF4B19;
 	color: #fff;
+	border: none;
 }
 
 #panel4 a {
